@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Moonspeat Aguero
+          Moonspeat Aguero feature monero
         </a>
       </header>
     </div>
